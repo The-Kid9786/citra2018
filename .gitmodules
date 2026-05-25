@@ -34,3 +34,6 @@
 [submodule "externals/cppzmq"]
 	path = externals/cppzmq
 	url = https://github.com/zeromq/cppzmq
+[submodule "libRetroReversing"]
+	path = libRetroReversing
+	url = https://github.com/RetroReversing/libRetroReversing.git
